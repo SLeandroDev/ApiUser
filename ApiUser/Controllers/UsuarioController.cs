@@ -18,7 +18,8 @@ namespace ApiUser.Controllers
         {
             { 1, "Usuário Teste 1" },
             { 2, "Usuário Teste 2" },
-            { 3, "Usuário Teste 3" }
+            { 3, "Usuário Teste 3" },
+            { 4, "Usuário Teste 4" }
         };
 
         // Método para selecionar User por ID

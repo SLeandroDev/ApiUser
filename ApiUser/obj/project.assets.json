@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\ApiUser\\ApiUser\\ApiUser.csproj",
+      "projectUniqueName": "C:\\Users\\leand.DESKTOP-PR6T4QP\\Source\\Repos\\SLeandroDev\\ApiUser\\ApiUser\\ApiUser.csproj",
       "projectName": "ApiUser",
-      "projectPath": "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\ApiUser\\ApiUser\\ApiUser.csproj",
+      "projectPath": "C:\\Users\\leand.DESKTOP-PR6T4QP\\Source\\Repos\\SLeandroDev\\ApiUser\\ApiUser\\ApiUser.csproj",
       "packagesPath": "C:\\Users\\leand.DESKTOP-PR6T4QP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand.DESKTOP-PR6T4QP\\source\\repos\\ApiUser\\ApiUser\\obj\\",
+      "outputPath": "C:\\Users\\leand.DESKTOP-PR6T4QP\\Source\\Repos\\SLeandroDev\\ApiUser\\ApiUser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand.DESKTOP-PR6T4QP\\AppData\\Roaming\\NuGet\\NuGet.Config",
